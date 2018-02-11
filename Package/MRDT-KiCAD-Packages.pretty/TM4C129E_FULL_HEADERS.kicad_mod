@@ -1,8 +1,8 @@
-(module TIVA_FULL_HEADERS (layer F.Cu) (tedit 5A7F6F9A)
+(module TM4C129E_FULL_HEADERS (layer F.Cu) (tedit 5A80A184)
   (fp_text reference REF** (at 2.54 -41.91) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TIVA_FRONT_HALF (at 6.35 -49.53) (layer F.Fab)
+  (fp_text value TM4C129E_FULL_HEADERS (at 6.35 -49.53) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user TIVA_REAR_HALF (at 69.85 -49.53) (layer F.Fab)
