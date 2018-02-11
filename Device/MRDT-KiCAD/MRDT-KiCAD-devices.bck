@@ -36,4 +36,8 @@ D TIVA C Rear Half Header (Side without Ethernet)
 K TIVA C, Headers
 $ENDCMP
 #
+$CMP TM4C123G
+K M4C123G 64-PIN LQFP
+$ENDCMP
+#
 #End Doc Library
