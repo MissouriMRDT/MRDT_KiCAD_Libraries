@@ -1,8 +1,8 @@
-(module APP-2-SbS (layer F.Cu) (tedit 5A7F9154)
+(module Anderson_2_Side-by-Side (layer F.Cu) (tedit 5A80A9E6)
   (fp_text reference REF** (at -5.461 4.826) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value APP-2-SbS (at -8.128 -12.446) (layer F.Fab)
+  (fp_text value Anderson_2_Side-by-Side (at -8.128 -12.446) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -19.304 -11.684) (end -20.5232 -11.684) (layer F.SilkS) (width 0.15))

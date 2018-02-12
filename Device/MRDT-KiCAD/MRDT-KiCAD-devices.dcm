@@ -1,6 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP JAG_ARM_Connector-10pin
+$CMP JTAG_ARM_Connector-10pin
 D JTAG ARM Connector
 K JTAG ARM Header
 $ENDCMP

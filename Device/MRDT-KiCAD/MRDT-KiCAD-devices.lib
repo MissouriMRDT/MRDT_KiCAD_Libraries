@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# APP_2
+# Anderson-2
 #
-DEF APP_2 C 0 40 Y Y 1 F N
+DEF Anderson-2 C 0 40 Y Y 1 F N
 F0 "C" 50 -50 60 H V C CNN
-F1 "APP_2" 100 500 60 H V C CNN
+F1 "Anderson-2" 100 500 60 H V C CNN
 F2 "" 50 -550 60 H I C CNN
 F3 "" 50 -550 60 H I C CNN
 DRAW
@@ -50,11 +50,11 @@ X GND 13 550 600 200 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# JAG_ARM_Connector-10pin
+# JTAG_ARM_Connector-10pin
 #
-DEF JAG_ARM_Connector-10pin U 0 40 Y Y 1 F N
+DEF JTAG_ARM_Connector-10pin U 0 40 Y Y 1 F N
 F0 "U" 50 -50 60 H I C CNN
-F1 "JAG_ARM_Connector-10pin" 200 600 60 H V C CNN
+F1 "JTAG_ARM_Connector-10pin" 200 600 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -76,12 +76,11 @@ ENDDEF
 #
 DEF Molex_SL-3 U 0 40 Y Y 1 F N
 F0 "U" 50 -50 60 H I C CNN
-F1 "Molex_SL-3" 200 350 60 H V C CNN
+F1 "Molex_SL-3" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
-T 0 300 150 60 0 0 0 OUT-> Normal 0 C C
-S 0 300 450 0 0 1 0 N
+S 0 300 100 0 0 1 0 N
 X ~ 1 -200 250 200 R 50 50 1 1 I
 X ~ 2 -200 150 200 R 50 50 1 1 I
 X ~ 3 -200 50 200 R 50 50 1 1 I
@@ -92,12 +91,11 @@ ENDDEF
 #
 DEF Molex_SL-4 U 0 40 Y Y 1 F N
 F0 "U" 50 -50 60 H I C CNN
-F1 "Molex_SL-4" 200 450 60 H V C CNN
+F1 "Molex_SL-4" 50 450 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
-T 0 300 200 60 0 0 0 OUT-> Normal 0 C C
-S 0 400 450 0 0 1 0 N
+S 0 400 100 0 0 1 0 N
 X ~ 1 -200 350 200 R 50 50 1 1 I
 X ~ 2 -200 250 200 R 50 50 1 1 I
 X ~ 3 -200 150 200 R 50 50 1 1 I
