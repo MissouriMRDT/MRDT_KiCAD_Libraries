@@ -1,8 +1,8 @@
-(module TM4C129E_FULL_HEADERS (layer F.Cu) (tedit 5A80AD0C)
+(module TM4C129E_Launchpad_FULL_Booster (layer F.Cu) (tedit 5A89D28D)
   (fp_text reference REF** (at 2.54 -41.91) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TM4C129E_FULL_HEADERS (at 47.244 -52.832) (layer F.Fab) hide
+  (fp_text value TM4C129E_Launchpad_FULL_Booster (at 47.244 -52.832) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user J4 (at -0.889 -3.81) (layer F.SilkS)
