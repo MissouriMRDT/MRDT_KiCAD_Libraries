@@ -1,22 +1,37 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP TIVA_C_Launchpad_TM4C129_Ethernet_Side
+$CMP LAUNCHXL-F28069M_Launchpad_Backside
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL-F28069M_Launchpad_Full
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL-F28069M_Programmer_Side
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP TM4C123G_Launchpad_Shield
 D TIVA C Front Half Header (Side with Ethernet)
 K TIVA C, Headers
 $ENDCMP
 #
-$CMP TIVA_C_Launchpad_TM4C129_Full
+$CMP TM4C129E_Launchpad_Ethernet_Side
+D TIVA C Front Half Header (Side with Ethernet)
+K TIVA C, Headers
+$ENDCMP
+#
+$CMP TM4C129E_Launchpad_Full
 D TIVA C Full Headers
 K TIVA C, Headers
 $ENDCMP
 #
-$CMP TIVA_C_Launchpad_TM4C129_JTAG_Side
+$CMP TM4C129E_Launchpad_JTAG_Side
 D TIVA C Rear Half Header (Side without Ethernet)
-K TIVA C, Headers
-$ENDCMP
-#
-$CMP TIVA_C_TM4C123G_Launchpad_Shield
-D TIVA C Front Half Header (Side with Ethernet)
 K TIVA C, Headers
 $ENDCMP
 #

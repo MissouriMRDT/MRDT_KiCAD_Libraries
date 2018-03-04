@@ -1,5 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LAUNCHXL-F28069M_Launchpad_Backside
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL-F28069M_Launchpad_Full
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL-F28069M_Programmer_Side
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
 $CMP TM4C123G_Launchpad_Shield
 D TIVA C Front Half Header (Side with Ethernet)
 K TIVA C, Headers
