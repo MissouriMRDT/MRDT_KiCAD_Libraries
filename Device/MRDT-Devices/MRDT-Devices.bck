@@ -1,3 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GY-ML8511
+D UV Sensor
+$ENDCMP
+#
+$CMP MPL3115A2
+D Pressure Sensor
+$ENDCMP
+#
+$CMP OKI
+K OKI
+$ENDCMP
+#
+$CMP SEN-09404
+D Metane Gas Sensor
+$ENDCMP
+#
 #End Doc Library

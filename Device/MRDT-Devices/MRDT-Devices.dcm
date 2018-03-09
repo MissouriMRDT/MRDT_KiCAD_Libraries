@@ -1,5 +1,25 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GY-ML8511
+D UV Sensor
+$ENDCMP
+#
+$CMP HIH-4030
+D Humidity sensor
+$ENDCMP
+#
+$CMP MPL3115A2
+D Pressure Sensor
+$ENDCMP
+#
+$CMP MQ-135
+D Ammonia Gas Sensor
+$ENDCMP
+#
+$CMP MQ-4
+D Metane Gas Sensor
+$ENDCMP
+#
 $CMP OKI
 K OKI
 $ENDCMP
