@@ -1,18 +1,26 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP GY-ML8511
+$CMP DS18B20
+D Temperature Sensor
+$ENDCMP
+#
+$CMP GY-ML8511-Breakout
 D UV Sensor
 $ENDCMP
 #
-$CMP HIH-4030
+$CMP HIH-4030-Breakout
 D Humidity sensor
 $ENDCMP
 #
-$CMP MPL3115A2
+$CMP ML8511-Breakout
+D UV Sensor
+$ENDCMP
+#
+$CMP MPL3115A2-Breakout
 D Pressure Sensor
 $ENDCMP
 #
-$CMP MQ-135
+$CMP MQ-135-Breakout
 D Ammonia Gas Sensor
 $ENDCMP
 #
@@ -22,6 +30,10 @@ $ENDCMP
 #
 $CMP OKI
 K OKI
+$ENDCMP
+#
+$CMP TMP36
+D Temperature Sensor
 $ENDCMP
 #
 #End Doc Library
