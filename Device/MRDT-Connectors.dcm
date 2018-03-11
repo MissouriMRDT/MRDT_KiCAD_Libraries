@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Molex_SL-10
+K MOLEX SL
+$ENDCMP
+#
 $CMP Molex_SL-3
 K MOLEX SL
 $ENDCMP

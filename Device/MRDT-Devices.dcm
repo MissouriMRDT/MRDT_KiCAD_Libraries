@@ -8,6 +8,10 @@ $CMP GY-ML8511-Breakout
 D UV Sensor
 $ENDCMP
 #
+$CMP GYML8511-Breakout
+D UV Sensor
+$ENDCMP
+#
 $CMP HIH-4030-Breakout
 D Humidity sensor
 $ENDCMP
