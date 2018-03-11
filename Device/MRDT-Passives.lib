@@ -1,6 +1,20 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# Fuse
+#
+DEF Fuse U 0 40 Y Y 1 F N
+F0 "U" 50 -50 60 H V C CNN
+F1 "Fuse" 100 150 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 0 0 300 100 0 0 0 N
+X In 1 -200 50 200 R 50 50 1 1 P
+X Out 2 500 50 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Placeholder
 #
 DEF Placeholder U 0 40 Y Y 1 F N
