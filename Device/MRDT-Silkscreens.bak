@@ -13,15 +13,4 @@ S 0 0 500 100 0 1 0 N
 ENDDRAW
 ENDDEF
 #
-# Placeholder
-#
-DEF Placeholder U 0 40 Y Y 1 F N
-F0 "U" 0 0 60 H V C CNN
-F1 "Placeholder" 50 100 60 H V C CNN
-F2 "" 0 0 60 H I C CNN
-F3 "" 0 0 60 H I C CNN
-DRAW
-ENDDRAW
-ENDDEF
-#
 #End Library

@@ -1,15 +1,15 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# MRDT_Logo
+# Logo_or_Signature
 #
-DEF MRDT_Logo S 0 40 Y Y 1 F N
+DEF Logo_or_Signature S 0 40 Y Y 1 F N
 F0 "S" 50 -50 60 H V C CNN
-F1 "MRDT_Logo" 250 50 60 H V C CNN
+F1 "Logo_or_Signature" 450 50 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
-S 0 0 500 100 0 1 0 N
+S 0 0 900 100 0 1 0 N
 ENDDRAW
 ENDDEF
 #

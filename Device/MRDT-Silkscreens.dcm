@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Logo_or_Signature
+K MRDT, Atlas, Logo, Signature, Sig, Gryphon, Zenith
+$ENDCMP
+#
 #End Doc Library
