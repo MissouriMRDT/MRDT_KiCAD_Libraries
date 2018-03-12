@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_X9 (layer F.Cu) (tedit 5AA5880B)
+(module TM4C129E_Launchpad_X9 (layer F.Cu) (tedit 5AA5C4B2)
   (fp_text reference REF** (at 2.54 -41.402) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -63,6 +63,6 @@
   (pad PD1 thru_hole circle (at 11.43 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
   (pad PD0 thru_hole circle (at 8.89 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
   (pad PN2 thru_hole circle (at 6.35 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
-  (pad PQ1 thru_hole circle (at 3.81 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
+  (pad PN3 thru_hole circle (at 3.81 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
   (pad PP2 thru_hole circle (at 1.27 -1.27) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
 )
