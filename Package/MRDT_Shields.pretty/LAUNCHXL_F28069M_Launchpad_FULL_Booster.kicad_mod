@@ -1,8 +1,8 @@
-(module LAUNCHXL-F28069M_Launchpad_FULL_Booster (layer F.Cu) (tedit 5A9C7FDC)
+(module LAUNCHXL_F28069M_Launchpad_FULL_Booster (layer F.Cu) (tedit 5AAD6E67)
   (fp_text reference REF** (at 2.54 -41.91) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LAUNCHXL-F28069M_Launchpad_FULL_Booster (at 47.244 -52.832) (layer F.Fab) hide
+  (fp_text value LAUNCHXL_F28069M_Launchpad_FULL_Booster (at 47.244 -52.832) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user J8 (at 62.357 -3.81) (layer F.SilkS)

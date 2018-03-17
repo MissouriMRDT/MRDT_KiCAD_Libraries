@@ -1,4 +1,4 @@
-(module MOLEX_SL_3 (layer F.Cu) (tedit 5A9CA780)
+(module MOLEX_SL_3 (layer F.Cu) (tedit 5AAD7709)
   (fp_text reference REF** (at -1.27 2.54) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -20,9 +20,9 @@
   (fp_line (start -1.016 -7.62) (end -1.016 -5.08) (layer F.SilkS) (width 0.15))
   (fp_line (start 3.81 -1.27) (end 3.81 1.27) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.81 1.27) (end -3.81 -1.27) (layer F.SilkS) (width 0.15))
-  (pad "" thru_hole circle (at -3.685 -8.64) (size 3.45 3.45) (drill 3.45) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -3.685 -8.64) (size 3.45 3.45) (drill 3.45) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 3.685 -8.64) (size 3.45 3.45) (drill 3.45) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 3.685 -8.64) (size 3.45 3.45) (drill 3.45) (layers *.Cu *.Mask))
 )

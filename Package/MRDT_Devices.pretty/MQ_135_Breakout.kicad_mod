@@ -1,8 +1,8 @@
-(module MQ-135-Breakout (layer F.Cu) (tedit 5AA4286F)
+(module MQ_135_Breakout (layer F.Cu) (tedit 5AAD6DE9)
   (fp_text reference REF** (at 2.032 1.016) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MQ-135-Breakout (at 9.652 1.016) (layer F.Fab)
+  (fp_text value MQ_135_Breakout (at 9.652 1.016) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 9.906 -20.828) (end 19.558 -21.082) (layer F.SilkS) (width 0.15))

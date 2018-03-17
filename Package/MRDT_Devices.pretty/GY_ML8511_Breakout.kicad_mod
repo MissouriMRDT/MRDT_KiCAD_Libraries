@@ -1,8 +1,8 @@
-(module GY-ML8511-Breakout (layer F.Cu) (tedit 5AA46778)
+(module GY_ML8511_Breakout (layer F.Cu) (tedit 5AAD6DAD)
   (fp_text reference REF** (at 2.284 0.764) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value GY-ML8511-Breakout (at 5.588 0.762) (layer F.Fab)
+  (fp_text value GY_ML8511_Breakout (at 5.588 0.762) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 9.398 -4.318) (end 9.398 -2.032) (layer F.SilkS) (width 0.15))

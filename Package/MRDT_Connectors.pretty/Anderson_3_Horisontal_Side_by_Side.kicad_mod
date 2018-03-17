@@ -1,8 +1,8 @@
-(module Anderson_3_Horisontal_Side-by-Side (layer F.Cu) (tedit 5AA5BEE4)
+(module Anderson_3_Horisontal_Side_by_Side (layer F.Cu) (tedit 5AAD6D62)
   (fp_text reference REF** (at -1.8796 -6.858) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Anderson_3_Horisontal_Side-by-Side (at -12.8651 -24.384) (layer F.Fab)
+  (fp_text value Anderson_3_Horisontal_Side_by_Side (at -12.8651 -24.384) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -14.5796 -6.4516) (end -14.5796 -1.0668) (layer F.SilkS) (width 0.15))

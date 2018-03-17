@@ -1,9 +1,9 @@
-(module MQ-4 (layer F.Cu) (tedit 5AA416AB)
+(module MQ_4 (layer F.Cu) (tedit 5AAD6E05)
   (descr "Temperature Sensor")
   (fp_text reference REF** (at 0 3.302) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MQ-4 (at 0 -4.572) (layer F.Fab)
+  (fp_text value MQ_4 (at 0 -4.572) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 8.41 0) (layer F.SilkS) (width 0.15))

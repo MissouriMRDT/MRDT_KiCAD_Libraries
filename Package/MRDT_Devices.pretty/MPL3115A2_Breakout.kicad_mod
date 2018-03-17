@@ -1,8 +1,8 @@
-(module MPL3115A2-Breakout (layer F.Cu) (tedit 5AA439CC)
+(module MPL3115A2_Breakout (layer F.Cu) (tedit 5AAD6DDA)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MPL3115A2-Breakout (at 8.128 -16.764) (layer F.Fab)
+  (fp_text value MPL3115A2_Breakout (at 8.128 -16.764) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 14.732 -3.556) (end 15.748 -2.032) (layer F.SilkS) (width 0.15))
