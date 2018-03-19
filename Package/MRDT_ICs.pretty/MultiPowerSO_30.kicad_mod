@@ -1,8 +1,8 @@
-(module MultiPowerSO-30 (layer F.Cu) (tedit 5A9CA727)
+(module MultiPowerSO_30 (layer F.Cu) (tedit 5AAED7C2)
   (fp_text reference REF** (at -5.9436 9.7536) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MultiPowerSO-30 (at 0.0254 -9.7282) (layer F.SilkS)
+  (fp_text value MultiPowerSO_30 (at 0.0254 -9.7282) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 0 -8.636) (end 0 -7.9756) (angle 90) (layer F.SilkS) (width 0.15))
