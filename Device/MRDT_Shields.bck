@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LAUNCHXL_F28069M_Launchpad_Full
+D LAUNCHXL-F28069M Full Headers
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL_F28069M_Launchpad_J1
+D LAUNCHXL-F28069M Programmer Side
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP LAUNCHXL_F28069M_Launchpad_J5
+D LAUNCHXL-F28069M Backside
+K LAUNCHXL, 28069M, Header
+$ENDCMP
+#
+$CMP TM4C123G_Launchpad_Shield
+D TIVA C Front Half Header (Side with Ethernet)
+K TIVA C, Headers
+$ENDCMP
+#
+$CMP TM4C129E_Launchpad_Full
+D TIVA C Full Headers
+K TIVA C, Headers
+$ENDCMP
+#
+$CMP TM4C129E_Launchpad_X7
+D TIVA C Front Half Header (Side with Ethernet)
+K TIVA C, Headers
+$ENDCMP
+#
+$CMP TM4C129E_Launchpad_X9
+D TIVA C Rear Half Header (Side without Ethernet)
+K TIVA C, Headers
+$ENDCMP
+#
+#End Doc Library
