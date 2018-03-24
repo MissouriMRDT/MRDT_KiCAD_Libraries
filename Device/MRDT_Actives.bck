@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED3P
+D Pin 3 should not be electrically connected to anything. It should be connected to a pad of copper purely for heat dissipation.
+K CREE Cree LED led XPG
+$ENDCMP
+#
+#End Doc Library
