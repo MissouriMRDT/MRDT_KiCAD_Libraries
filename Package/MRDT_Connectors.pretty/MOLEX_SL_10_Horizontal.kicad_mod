@@ -1,8 +1,8 @@
-(module MOLEX_SL_10 (layer F.Cu) (tedit 5AA46A7B)
+(module MOLEX_SL_10_Horizontal (layer F.Cu) (tedit 5AB8002A)
   (fp_text reference REF** (at -10.16 2.54) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value MOLEX_SL_5 (at 0 2.032) (layer F.Fab)
+  (fp_text value MOLEX_SL_10_Horizontal (at 0 2.032) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.81 -7.62) (end -3.81 -13.208) (layer F.SilkS) (width 0.15))
