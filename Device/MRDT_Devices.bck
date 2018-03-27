@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS18B20
+D Temperature Sensor
+$ENDCMP
+#
+$CMP GY_ML8511_Breakout
+D UV Sensor
+$ENDCMP
+#
+$CMP HIH_4030_Breakout
+D Humidity sensor
+$ENDCMP
+#
+$CMP ML8511_Breakout
+D UV Sensor
+$ENDCMP
+#
+$CMP MPL3115A2_Breakout
+D Pressure Sensor
+$ENDCMP
+#
+$CMP MQ_135_Breakout
+D Ammonia Gas Sensor
+$ENDCMP
+#
+$CMP MQ_4
+D Metane Gas Sensor
+$ENDCMP
+#
+$CMP OKI
+K OKI
+$ENDCMP
+#
+$CMP TMP36
+D Temperature Sensor
+$ENDCMP
+#
+#End Doc Library
