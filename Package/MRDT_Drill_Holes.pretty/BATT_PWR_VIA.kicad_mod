@@ -1,0 +1,9 @@
+(module BATT_PWR_VIA (layer F.Cu) (tedit 5ACD4FAD)
+  (fp_text reference REF** (at 0 10.16) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BATT_PWR_VIA (at 0 -10.033) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 18.288 18.288) (drill 9.144) (layers *.Cu))
+)
