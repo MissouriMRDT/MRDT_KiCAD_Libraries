@@ -1,8 +1,8 @@
-(module SPDT_Angled_Slide_GPI-152-3013 (layer F.Cu) (tedit 5ACFC3A8)
+(module 1P2T_Angled_Slide_GPI-152-3013 (layer F.Cu) (tedit 5ACFCB76)
   (fp_text reference REF** (at 0.889 25.019) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value SPDT_Angled_Slide_GPI-152-3013 (at 4.699 24.892) (layer F.Fab)
+  (fp_text value 1P2T_Angled_Slide_GPI-152-3013 (at 4.699 24.892) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 10.541 24.13) (end -0.889 24.13) (layer F.SilkS) (width 0.15))
