@@ -20,6 +20,10 @@ $CMP Molex_SL_5
 K MOLEX SL
 $ENDCMP
 #
+$CMP Molex_SL_9
+K MOLEX SL
+$ENDCMP
+#
 $CMP Picoblade_3
 K MOLEX SL
 $ENDCMP
