@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.3
 #
 # Anderson_1
 #
-DEF Anderson_1 C 0 40 Y Y 1 F N
-F0 "C" 50 -50 60 H V C CNN
+DEF Anderson_1 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H V C CNN
 F1 "Anderson_1" 100 250 60 H V C CNN
 F2 "" 50 -550 60 H I C CNN
 F3 "" 50 -550 60 H I C CNN
@@ -20,8 +20,8 @@ ENDDEF
 #
 # Anderson_2
 #
-DEF Anderson_2 C 0 40 Y Y 1 F N
-F0 "C" 50 -50 60 H V C CNN
+DEF Anderson_2 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H V C CNN
 F1 "Anderson_2" 100 500 60 H V C CNN
 F2 "" 50 -550 60 H I C CNN
 F3 "" 50 -550 60 H I C CNN
@@ -44,8 +44,8 @@ ENDDEF
 #
 # Anderson_3
 #
-DEF Anderson_3 C 0 40 Y Y 1 F N
-F0 "C" 50 -50 60 H V C CNN
+DEF Anderson_3 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H V C CNN
 F1 "Anderson_3" 150 750 60 H V C CNN
 F2 "" 50 -550 60 H I C CNN
 F3 "" 50 -550 60 H I C CNN
@@ -71,8 +71,8 @@ ENDDEF
 #
 # JAG_ARM_Connector_10pin
 #
-DEF JAG_ARM_Connector_10pin U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF JAG_ARM_Connector_10pin Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "JAG_ARM_Connector_10pin" 200 600 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -115,8 +115,8 @@ ENDDEF
 #
 # Molex_SL_2
 #
-DEF Molex_SL_2 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Molex_SL_2 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Molex_SL_2" 50 250 60 H V C CNN
 F2 "" 0 -100 60 H I C CNN
 F3 "" 0 -100 60 H I C CNN
@@ -129,8 +129,8 @@ ENDDEF
 #
 # Molex_SL_3
 #
-DEF Molex_SL_3 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Molex_SL_3 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Molex_SL_3" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -144,8 +144,8 @@ ENDDEF
 #
 # Molex_SL_4
 #
-DEF Molex_SL_4 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Molex_SL_4 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Molex_SL_4" 50 450 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -160,8 +160,8 @@ ENDDEF
 #
 # Molex_SL_5
 #
-DEF Molex_SL_5 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Molex_SL_5 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Molex_SL_5" 200 550 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -198,8 +198,8 @@ ENDDEF
 #
 # Picoblade_3
 #
-DEF Picoblade_3 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Picoblade_3 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Picoblade_3" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
