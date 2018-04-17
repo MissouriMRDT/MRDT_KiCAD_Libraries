@@ -1,0 +1,9 @@
+(module MOUTING_HOLE_D0.13in (layer F.Cu) (tedit 5AD6119B)
+  (fp_text reference REF** (at 0 2) (layer F.Fab) hide
+    (effects (font (size 0.127 0.127) (thickness 0.03175)))
+  )
+  (fp_text value MOUTING_HOLE_D0.13in (at 0 -2) (layer F.Fab) hide
+    (effects (font (size 0.127 0.127) (thickness 0.03175)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 3.302 3.302) (drill 3.302) (layers *.Cu *.Mask))
+)
