@@ -1,6 +1,23 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 12mm_Coin_Cell_Battery_Holder
+#
+DEF ~12mm_Coin_Cell_Battery_Holder C 0 40 Y Y 1 F N
+F0 "C" -150 250 60 H V C CNN
+F1 "12mm_Coin_Cell_Battery_Holder" 100 -50 60 H I C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+T 0 150 250 60 0 0 0 + Normal 0 C C
+T 0 150 200 60 0 0 0 - Normal 0 C C
+P 2 0 1 0 -100 250 100 250 N
+P 2 0 1 0 -50 200 50 200 N
+X ~ +V 0 450 200 D 50 50 1 1 I
+X ~ GND 0 0 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # Anderson_1
 #
 DEF Anderson_1 Conn 0 40 Y Y 1 F N
@@ -21,24 +38,24 @@ ENDDEF
 # Anderson_2
 #
 DEF Anderson_2 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H V C CNN
+F0 "Conn" 50 -100 60 H V C CNN
 F1 "Anderson_2" 100 500 60 H V C CNN
 F2 "" 50 -550 60 H I C CNN
 F3 "" 50 -550 60 H I C CNN
 DRAW
-T 0 300 100 60 0 0 0 GND Normal 0 C C
+T 0 300 50 60 0 0 0 GND Normal 0 C C
 T 0 300 350 60 0 0 0 V+ Normal 0 C C
-C 100 100 100 0 1 0 N
+C 100 50 100 0 1 0 N
 C 100 350 100 0 1 0 N
 S 200 -200 200 -200 0 1 0 N
-S 200 0 0 200 0 1 0 N
+S 200 -50 0 150 0 1 0 N
 S 200 250 0 450 0 1 0 N
-P 2 0 1 0 0 200 200 0 N
+P 2 0 1 0 0 150 200 -50 N
 P 2 0 1 0 0 250 200 450 N
-P 2 0 1 0 200 200 0 0 N
+P 2 0 1 0 200 150 0 -50 N
 P 2 0 1 0 200 250 0 450 N
 X 1 1 -100 350 200 R 50 50 1 1 I
-X 2 2 -100 100 200 R 50 50 1 1 I
+X 2 2 -100 50 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
@@ -198,8 +215,8 @@ ENDDEF
 #
 # Picoblade_3
 #
-DEF Picoblade_3 U 0 40 Y Y 1 F N
-F0 "U" 50 -50 60 H I C CNN
+DEF Picoblade_3 Conn 0 40 Y Y 1 F N
+F0 "Conn" 50 -50 60 H I C CNN
 F1 "Picoblade_3" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
