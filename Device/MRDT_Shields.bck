@@ -15,6 +15,10 @@ D LAUNCHXL-F28069M Backside
 K LAUNCHXL, 28069M, Header
 $ENDCMP
 #
+$CMP MSP_EXP432P401R_Launchpad_Full
+K MSP 432
+$ENDCMP
+#
 $CMP TM4C123G_Launchpad_Shield
 D TIVA C Front Half Header (Side with Ethernet)
 K TIVA C, Headers
