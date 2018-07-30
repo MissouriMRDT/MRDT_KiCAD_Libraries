@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LDD-1500L
+D LED Driver
+$ENDCMP
+#
 $CMP OKI
 D DC/DC Buck Converter
 K OKI

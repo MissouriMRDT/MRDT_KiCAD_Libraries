@@ -16,10 +16,6 @@ $CMP HIH_4030_Breakout
 D Humidity sensor
 $ENDCMP
 #
-$CMP LDD-1500L
-D LED Driver
-$ENDCMP
-#
 $CMP LSM90S1
 D IMU
 $ENDCMP
