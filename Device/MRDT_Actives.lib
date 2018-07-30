@@ -33,7 +33,7 @@ P 2 1 0 8 400 150 400 175 N
 P 2 1 0 8 400 175 375 175 N
 X Anode 1 0 0 100 R 59 59 1 0 U
 X Cathode 2 400 0 100 L 59 59 1 0 U
-X Heat_Dissipation 3 150 -150 100 U 59 59 1 0 U
+X Heat_Dissipation 3 150 -150 100 U 59 59 1 0 N
 ENDDRAW
 ENDDEF
 #
