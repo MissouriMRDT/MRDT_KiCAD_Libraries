@@ -1,8 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD8655
+D OpAMP
+$ENDCMP
+#
 $CMP AP1059
 D 3.3V IC Buck Converter
 K 8 SOP
+$ENDCMP
+#
+$CMP LT1910
+D Gate Driver
+$ENDCMP
+#
+$CMP MAX_3232
+D CMOS->TTL Level Shifter
 $ENDCMP
 #
 $CMP TM4C123G
