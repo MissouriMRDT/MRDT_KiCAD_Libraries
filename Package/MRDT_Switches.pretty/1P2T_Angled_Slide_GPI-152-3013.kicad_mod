@@ -1,4 +1,4 @@
-(module 1P2T_Angled_Slide_GPI-152-3013 (layer F.Cu) (tedit 5ACFCB76)
+(module 1P2T_Angled_Slide_GPI-152-3013 (layer F.Cu) (tedit 5B784AF7)
   (fp_text reference REF** (at 0.889 25.019) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -16,7 +16,7 @@
   (pad 3 thru_hole circle (at 1.397 16.0274) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 8.3058 16.0274) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad 21 np_thru_hole circle (at 9.7028 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad 12 np_thru_hole circle (at 0 22.86) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
-  (pad 22 np_thru_hole circle (at 9.7028 22.86) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 9.7028 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 22.86) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 9.7028 22.86) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask))
 )
