@@ -1,4 +1,4 @@
-(module OKI_Horisontal (layer F.Cu) (tedit 5A7F91F8)
+(module OKI_Horizontal (layer F.Cu) (tedit 5A7F91F8)
   (tags OKI)
   (fp_text reference REF** (at 2.54 -1.27) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
