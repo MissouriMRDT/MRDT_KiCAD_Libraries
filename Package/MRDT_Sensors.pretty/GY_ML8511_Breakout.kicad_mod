@@ -1,4 +1,4 @@
-(module GY_ML8511_Breakout (layer F.Cu) (tedit 5AAD6DAD)
+(module MRDT_Devices:GY_ML8511_Breakout (layer F.Cu) (tedit 5AAD6DAD)
   (fp_text reference REF** (at 2.284 0.764) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
