@@ -1,4 +1,4 @@
-(module MOLEX_SL_9_Vertical (layer F.Cu) (tedit 5AD56D96)
+(module MOLEX_SL_09_Vertical (layer F.Cu) (tedit 5AD56D96)
   (fp_text reference REF** (at -4.445 3.683) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
