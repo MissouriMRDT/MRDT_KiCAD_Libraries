@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.3
 #
 # 12mm_Coin_Cell_Battery_Holder
 #
-DEF ~12mm_Coin_Cell_Battery_Holder C 0 40 Y Y 1 F N
-F0 "C" -150 250 60 H V C CNN
+DEF ~12mm_Coin_Cell_Battery_Holder Conn 0 40 Y Y 1 F N
+F0 "Conn" 150 50 60 H V C CNN
 F1 "12mm_Coin_Cell_Battery_Holder" 100 -50 60 H I C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -40,7 +40,7 @@ ENDDEF
 # JAG_ARM_Connector_10pin
 #
 DEF JAG_ARM_Connector_10pin Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "JAG_ARM_Connector_10pin" 200 600 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -62,7 +62,7 @@ ENDDEF
 # Molex_SL_02
 #
 DEF Molex_SL_02 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_02" 50 250 60 H V C CNN
 F2 "" 0 -100 60 H I C CNN
 F3 "" 0 -100 60 H I C CNN
@@ -76,7 +76,7 @@ ENDDEF
 # Molex_SL_03
 #
 DEF Molex_SL_03 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_03" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -91,7 +91,7 @@ ENDDEF
 # Molex_SL_04
 #
 DEF Molex_SL_04 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_04" 50 450 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -107,7 +107,7 @@ ENDDEF
 # Molex_SL_05
 #
 DEF Molex_SL_05 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_05" 50 550 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -124,7 +124,7 @@ ENDDEF
 # Molex_SL_09
 #
 DEF Molex_SL_09 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_09" 50 950 60 H V C CNN
 F2 "" 0 400 60 H I C CNN
 F3 "" 0 400 60 H I C CNN
@@ -145,7 +145,7 @@ ENDDEF
 # Molex_SL_10
 #
 DEF Molex_SL_10 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Molex_SL_10" 50 1050 60 H V C CNN
 F2 "" 0 500 60 H I C CNN
 F3 "" 0 500 60 H I C CNN
@@ -167,7 +167,7 @@ ENDDEF
 # Picoblade_3
 #
 DEF Picoblade_3 Conn 0 40 Y Y 1 F N
-F0 "Conn" 50 -50 60 H I C CNN
+F0 "Conn" 150 -50 60 H V C CNN
 F1 "Picoblade_3" 50 350 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -181,8 +181,8 @@ ENDDEF
 #
 # RP-SMA
 #
-DEF RP-SMA U 0 40 N Y 1 F N
-F0 "U" 50 -200 60 H V C CNN
+DEF RP-SMA Conn 0 40 N Y 1 F N
+F0 "Conn" 150 -200 60 H V C CNN
 F1 "RP-SMA" 0 200 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
@@ -197,13 +197,13 @@ ENDDEF
 # Solder_Pad
 #
 DEF Solder_Pad J 0 40 Y Y 1 F N
-F0 "J" 0 -50 60 H V C CNN
-F1 "Solder_Pad" 0 300 60 H V C CNN
-F2 "" 0 0 60 H I C CNN
-F3 "" 0 0 60 H I C CNN
+F0 "J" 50 -50 60 H V C CNN
+F1 "Solder_Pad" 0 250 60 H V C CNN
+F2 "" 0 -50 60 H I C CNN
+F3 "" 0 -50 60 H I C CNN
 DRAW
-X ~ 1 0 50 100 U 59 59 1 0 U
-C 0 200 50 0 1 0 F
+X ~ 1 0 0 100 U 59 59 1 0 U
+C 0 150 50 0 1 0 F
 ENDDRAW
 ENDDEF
 #
