@@ -9,7 +9,7 @@ D Temperature Sensor
 $ENDCMP
 #
 $CMP FGPMMOPA6H
-D GPS
+D GPS Breakout
 $ENDCMP
 #
 $CMP GY_ML8511_Breakout

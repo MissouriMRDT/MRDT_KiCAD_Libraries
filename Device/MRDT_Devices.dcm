@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Buzzer
+D Buzzer
+$ENDCMP
+#
 $CMP LDD-1500L
 D LED Driver
 $ENDCMP
@@ -7,10 +11,6 @@ $ENDCMP
 $CMP OKI
 D DC/DC Buck Converter
 K OKI
-$ENDCMP
-#
-$CMP SMI_1324_TW_5V_2_R
-D Buzzer
 $ENDCMP
 #
 #End Doc Library
