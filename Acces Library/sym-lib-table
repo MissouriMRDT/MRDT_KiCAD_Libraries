@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name MRDT_Actives)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Actives.lib)(options "")(descr ""))
+  (lib (name MRDT_Connectors)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Connectors.lib)(options "")(descr ""))
+  (lib (name MRDT_Devices)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Devices.lib)(options "")(descr ""))
+  (lib (name MRDT_Drill_Holes)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Drill_Holes.lib)(options "")(descr ""))
+  (lib (name MRDT_Headers)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Headers.lib)(options "")(descr ""))
+  (lib (name MRDT_ICs)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_ICs.lib)(options "")(descr ""))
+  (lib (name MRDT_Passives)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Passives.lib)(options "")(descr ""))
+  (lib (name MRDT_Sensors)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Sensors.lib)(options "")(descr ""))
+  (lib (name MRDT_Shields)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Shields.lib)(options "")(descr ""))
+  (lib (name MRDT_Silkscreens)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Silkscreens.lib)(options "")(descr ""))
+  (lib (name MRDT_Switches)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Switches.lib)(options "")(descr ""))
+)
