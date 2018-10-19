@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_X7_Bottom_SMD (layer F.Cu) (tedit 5BBFC4E2)
+(module TM4C129E_Launchpad_X7_SMD (layer F.Cu) (tedit 5BBFC4E2)
   (fp_text reference REF** (at 57.404 -0.762 180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
