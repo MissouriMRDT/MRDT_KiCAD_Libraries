@@ -10,4 +10,5 @@
   (lib (name MRDT_Shields)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Shields.pretty)(options "")(descr ""))
   (lib (name MRDT_Silkscreens)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Silkscreens.pretty)(options "")(descr ""))
   (lib (name MRDT_Switches)(type KiCad)(uri ${MRDT_KICAD_LIBRARIES}/Package/MRDT_Switches.pretty)(options "")(descr ""))
+  (lib (name MotorController_Hardware)(type KiCad)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/MotorController_Hardware/Libraries/Packages/MotorController_Hardware.pretty)(options "")(descr ""))
 )
