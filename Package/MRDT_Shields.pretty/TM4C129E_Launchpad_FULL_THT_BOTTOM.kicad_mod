@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_FULL_THT_BOTTOM (layer F.Cu) (tedit 5C180528)
+(module TM4C129E_Launchpad_FULL_THT_BOTTOM (layer F.Cu) (tedit 5C181C63)
   (fp_text reference REF** (at 122.174 -0.762 180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -227,4 +227,24 @@
   (pad PN2 thru_hole circle (at 19.05 -46.99 180) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
   (pad PN3 thru_hole circle (at 21.59 -46.99 180) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
   (pad PP2 thru_hole circle (at 24.13 -46.99 180) (size 1.52 1.52) (drill 1) (layers *.Cu *.Mask F.Paste))
+  (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x10_Pitch2.54mm.wrl
+    (offset (xyz 12.69999980926514 45.71999931335449 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x10_Pitch2.54mm.wrl
+    (offset (xyz 76.19999885559082 45.71999931335449 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x10_Pitch2.54mm.wrl
+    (offset (xyz 76.19999885559082 2.539999961853027 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x10_Pitch2.54mm.wrl
+    (offset (xyz 12.69999980926514 2.539999961853027 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
 )
