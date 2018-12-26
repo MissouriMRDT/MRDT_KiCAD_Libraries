@@ -1,4 +1,4 @@
-(module Anderson_1_Horizontal (layer F.Cu) (tedit 5C18147B)
+(module Anderson_1_Horizontal (layer F.Cu) (tedit 5C22EDC4)
   (fp_text reference REF** (at -2.032 0.762) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -22,4 +22,9 @@
   (fp_line (start -24.6126 -7.874) (end -16.8656 -7.874) (layer F.SilkS) (width 0.15))
   (fp_line (start -12.2936 -7.874) (end 0 -7.874) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 3.5814 -3.937) (size 5.08 5.08) (drill 4.06) (layers *.Cu *.Mask F.Paste))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Anderson_1_Horizontal.stp"
+    (offset (xyz 0 0 7.619999885559082))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 180))
+  )
 )

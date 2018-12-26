@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_FULL_THT_TOP (layer F.Cu) (tedit 5C181A59)
+(module TM4C129E_Launchpad_FULL_THT_TOP (layer F.Cu) (tedit 5C22B95B)
   (fp_text reference REF** (at 122.174 -0.762 180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -246,5 +246,10 @@
     (offset (xyz 1.269999980926514 1.269999980926514 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
+  )
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/TM4C129_Launchpad.stp"
+    (offset (xyz 0 0.15 11))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

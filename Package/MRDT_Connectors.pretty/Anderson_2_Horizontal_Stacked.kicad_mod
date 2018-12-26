@@ -1,4 +1,4 @@
-(module Anderson_2_Horizontal_Stacked (layer F.Cu) (tedit 5C181497)
+(module Anderson_2_Horizontal_Stacked (layer F.Cu) (tedit 5C22EE21)
   (fp_text reference Ref** (at -5.461 4.826) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -23,4 +23,9 @@
   (fp_line (start -20.447 4.064) (end -28.194 4.064) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at 0 0) (size 5.08 5.08) (drill 4.06) (layers *.Cu *.Mask F.Paste))
   (pad 4 thru_hole circle (at 7.874 0) (size 5.08 5.08) (drill 4.06) (layers *.Cu *.Mask F.Paste))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Anderson_2_Horisontal_Stacked.stp"
+    (offset (xyz -3.809999942779541 -3.809999942779541 7.619999885559082))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 180))
+  )
 )

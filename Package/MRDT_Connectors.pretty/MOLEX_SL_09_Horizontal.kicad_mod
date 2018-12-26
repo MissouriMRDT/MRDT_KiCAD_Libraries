@@ -1,4 +1,4 @@
-(module MOLEX_SL_09_Horizontal (layer F.Cu) (tedit 5AD56AAC)
+(module MOLEX_SL_09_Horizontal (layer F.Cu) (tedit 5C22EB5F)
   (fp_text reference REF** (at -8.89 2.54) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -32,4 +32,9 @@
   (pad 7 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 10.16 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Molex_SL_09_Horizontal.stp"
+    (offset (xyz 12.69999980926514 12.95399980545044 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
