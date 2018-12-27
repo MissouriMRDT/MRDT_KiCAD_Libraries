@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_X9_SMD_TOP (layer F.Cu) (tedit 5C1808BD)
+(module TM4C129E_Launchpad_X9_SMD_TOP (layer F.Cu) (tedit 5C243559)
   (fp_text reference U6 (at 57.404 -0.762 180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -172,4 +172,14 @@
   (pad PN2 smd rect (at 19.05 -48.6664 180) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
   (pad PN3 smd rect (at 21.59 -48.6664 180) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
   (pad PP2 smd rect (at 24.13 -48.6664 180) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/2x20_SMD_Pin.stp"
+    (offset (xyz -0.2539999961853027 0.1269999980926514 0.2539999961853027))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/2x20_SMD_Pin.stp"
+    (offset (xyz -0.2539999961853027 43.30699934959411 0.2539999961853027))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
