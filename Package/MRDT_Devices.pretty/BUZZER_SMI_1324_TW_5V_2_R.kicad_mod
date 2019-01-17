@@ -1,4 +1,4 @@
-(module BUZZER_SMI_1324_TW_5V_2_R (layer F.Cu) (tedit 5AD58655)
+(module BUZZER_SMI_1324_TW_5V_2_R (layer F.Cu) (tedit 5C4001FD)
   (fp_text reference REF** (at 2.3 7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,4 +15,9 @@
   (fp_line (start 0 6.5) (end 9.5 6.5) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at 0.2 0) (size 6 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 12.8 0) (size 6 2.5) (layers F.Cu F.Paste F.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Devices/Buzzer.stp"
+    (offset (xyz 12.69999980926514 6.349999904632568 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
