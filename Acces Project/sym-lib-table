@@ -10,6 +10,4 @@
   (lib (name MRDT_Shields)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Shields.lib)(options "")(descr ""))
   (lib (name MRDT_Silkscreens)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Silkscreens.lib)(options "")(descr ""))
   (lib (name MRDT_Switches)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Device/MRDT_Switches.lib)(options "")(descr ""))
-  (lib (name DC_DC_Converter)(type Legacy)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/PowerBoard_Hardware/Libraries/Symbols/DC_DC_CONVERTER/DC_DC_Converter.lib)(options "")(descr ""))
-  (lib (name Fuse_Block)(type Legacy)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/PowerBoard_Hardware/Libraries/Symbols/Fuse_Block/Fuse_Block.lib)(options "")(descr ""))
 )

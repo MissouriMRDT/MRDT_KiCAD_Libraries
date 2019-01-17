@@ -1,0 +1,49 @@
+(module Q36SR12020NRFA (layer F.Cu) (tedit 5C3FE894)
+  (fp_text reference VR (at 55.88 -0.762) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value DC-DC_Converter (at 29.718 -37.592 180) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 0) (end 58.42 0) (layer F.SilkS) (width 0.15))
+  (fp_line (start 58.42 -36.83) (end 58.42 0) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0 -36.83) (end 0 0) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0 -36.83) (end 58.42 -36.83) (layer F.SilkS) (width 0.15))
+  (fp_text user "VIN -" (at 7.366 -10.922) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user ON/OFF (at 8.128 -18.542) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "VIN +" (at 7.366 -26.162) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "VOUT -" (at 50.038 -10.922) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "VOUT +" (at 50.292 -26.162) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "SENSE +" (at 49.784 -22.352) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user TRIM (at 51.054 -18.288) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user "SENSE -" (at 49.53 -14.732) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 3 thru_hole circle (at 3.81 -10.922) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 3.81 -18.542) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at 3.81 -26.162) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 54.61 -10.922) (size 3.81 3.81) (drill 2.286) (layers *.Cu *.Mask))
+  (pad 8 thru_hole circle (at 54.61 -26.162) (size 3.81 3.81) (drill 2.286) (layers *.Cu *.Mask))
+  (pad 7 thru_hole circle (at 54.61 -22.352) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (pad 6 thru_hole circle (at 54.61 -18.542) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (pad 5 thru_hole circle (at 54.61 -14.732) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Devices/Q36SR12020NRFA.stp"
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

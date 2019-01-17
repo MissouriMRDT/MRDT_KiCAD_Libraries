@@ -13,4 +13,8 @@ D DC/DC Buck Converter
 K OKI
 $ENDCMP
 #
+$CMP Q36SR12020NRFA
+D DC-DC Converter
+$ENDCMP
+#
 #End Doc Library
