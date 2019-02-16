@@ -1,4 +1,4 @@
-(module RP-SMA_Jack_Tru-Hole_Right-Angle (layer F.Cu) (tedit 5B78A04A)
+(module RP-SMA_Jack_Tru-Hole_Right-Angle (layer F.Cu) (tedit 5C674187)
   (fp_text reference REF** (at 1.8542 4.5466) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -26,4 +26,9 @@
   (pad 2 thru_hole circle (at 2.55 -2.55 90) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.55 2.55 90) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.55 2.55 90) (size 2.25 2.25) (drill 1.5) (layers *.Cu *.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/SMA_Jack.stp"
+    (offset (xyz -3.492499947547913 -3.555999946594238 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

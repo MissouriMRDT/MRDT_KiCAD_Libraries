@@ -1,4 +1,4 @@
-(module MOLEX_SL_04_Vertical (layer F.Cu) (tedit 5C22EC85)
+(module MOLEX_SL_04_Vertical (layer F.Cu) (tedit 5C675A88)
   (fp_text reference REF** (at -4.445 3.302) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -12,11 +12,11 @@
   (fp_line (start -6.35 -2.54) (end 6.35 -2.54) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.35 2.54) (end 6.35 -2.54) (layer F.SilkS) (width 0.15))
   (fp_line (start -6.35 2.54) (end -6.35 -2.54) (layer F.SilkS) (width 0.15))
-  (pad 1 thru_hole circle (at -3.81 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 3 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
+  (pad 1 thru_hole circle (at -3.81 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 3 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
+  (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Molex_SL_04_Vertical.stp"
     (offset (xyz -6.349999904632568 -2.539999961853027 13.33499979972839))
     (scale (xyz 1 1 1))

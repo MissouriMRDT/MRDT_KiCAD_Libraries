@@ -1,7 +1,4 @@
 (sym_lib_table
-  (lib (name BMS_Hardware-rescue)(type Legacy)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/BMSCharger_Hardware/Libraries/Symbols/BMS_Hardware-rescue.lib)(options "")(descr ""))
-  (lib (name BMS_INA132)(type Legacy)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/BMSCharger_Hardware/Libraries/Symbols/BMS_INA132.lib)(options "")(descr ""))
-  (lib (name BMS_Logic_Switch)(type Legacy)(uri C:/Users/andre/Documents/Rover/GitHub/Hardware/BMSCharger_Hardware/Libraries/Symbols/BMS_Logic_Switch.lib)(options "")(descr ""))
   (lib (name MRDT_Actives)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Actives.lib)(options "")(descr ""))
   (lib (name MRDT_Connectors)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Connectors.lib)(options "")(descr ""))
   (lib (name MRDT_Devices)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Devices.lib)(options "")(descr ""))

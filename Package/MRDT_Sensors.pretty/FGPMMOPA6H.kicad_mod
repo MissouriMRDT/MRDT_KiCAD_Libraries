@@ -1,4 +1,4 @@
-(module FGPMMOPA6H (layer F.Cu) (tedit 5B78A25D)
+(module FGPMMOPA6H (layer F.Cu) (tedit 5C673FE6)
   (fp_text reference REF** (at 13.97 15.494) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -29,4 +29,9 @@
   (pad 18 smd rect (at 16.165634 3.229608 270) (size 1 2) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 16.165634 1.729608 270) (size 1 2) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 16.165634 0.229608 270) (size 1 2) (layers F.Cu F.Paste F.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Sensors/FGPMMOPA6H.stp"
+    (offset (xyz 0 -14.60499978065491 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

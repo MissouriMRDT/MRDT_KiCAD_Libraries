@@ -1,6 +1,0 @@
-Make SL holes wider
-Fix TIVA bottom SMD
-AP1059 Naming
-Add APP layouts
-Fix APP horiZontal 2x2 layout
-5V, rst tiva label
