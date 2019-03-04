@@ -1,4 +1,4 @@
-(module TM4C129E_Launchpad_FULL_SMD_BOTTOM (layer F.Cu) (tedit 5C2955F3)
+(module TM4C129E_Launchpad_FULL_SMD_BOTTOM (layer F.Cu) (tedit 5C7C6CD9)
   (fp_text reference REF** (at 122.174 -0.762 180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -93,7 +93,7 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (fp_line (start 25.4 0) (end 25.4 -5.08) (layer B.SilkS) (width 0.15))
-  (fp_line (start 25.4 -5.08) (end 0 -5.08) (layer F.Mask) (width 0.15))
+  (fp_line (start 25.4 -5.08) (end 0 -5.08) (layer B.SilkS) (width 0.15))
   (fp_line (start 0 -5.08) (end 0 0) (layer B.SilkS) (width 0.15))
   (fp_line (start 0 0) (end 25.4 0) (layer B.SilkS) (width 0.15))
   (fp_line (start 25.4 -43.18) (end 25.4 -48.26) (layer B.SilkS) (width 0.15))
@@ -104,7 +104,7 @@
   (fp_line (start 63.5 -43.18) (end 88.9 -43.18) (layer B.SilkS) (width 0.15))
   (fp_line (start 88.9 0) (end 88.9 -5.08) (layer B.SilkS) (width 0.15))
   (fp_line (start 63.5 -5.08) (end 63.5 0) (layer B.SilkS) (width 0.15))
-  (fp_line (start 63.5 0) (end 88.9 0) (layer F.Mask) (width 0.15))
+  (fp_line (start 63.5 0) (end 88.9 0) (layer B.SilkS) (width 0.15))
   (fp_line (start 88.9 -43.18) (end 88.9 -48.26) (layer B.SilkS) (width 0.15))
   (fp_line (start 88.9 -48.26) (end 63.5 -48.26) (layer B.SilkS) (width 0.15))
   (fp_line (start 63.5 -48.26) (end 63.5 -43.18) (layer B.SilkS) (width 0.15))
