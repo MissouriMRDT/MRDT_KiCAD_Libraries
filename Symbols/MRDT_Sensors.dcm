@@ -40,6 +40,10 @@ $CMP MQ_4
 D Metane Gas Sensor
 $ENDCMP
 #
+$CMP TCD1304
+D Linear CCD
+$ENDCMP
+#
 $CMP TMP36
 D Temperature Sensor
 $ENDCMP
