@@ -38,11 +38,11 @@ X ~ 1 400 100 200 L 50 39 5 1 I
 ENDDRAW
 ENDDEF
 #
-# JAG_ARM_Connector_10pin
+# JTAG_ARM_Connector_10pin
 #
-DEF JAG_ARM_Connector_10pin Conn 0 40 Y Y 1 F N
+DEF JTAG_ARM_Connector_10pin Conn 0 40 Y Y 1 F N
 F0 "Conn" 150 -50 60 H V C CNN
-F1 "JAG_ARM_Connector_10pin" 200 600 60 H V C CNN
+F1 "JTAG_ARM_Connector_10pin" 200 600 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
