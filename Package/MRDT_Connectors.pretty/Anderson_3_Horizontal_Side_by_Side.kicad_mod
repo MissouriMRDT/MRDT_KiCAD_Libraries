@@ -1,4 +1,4 @@
-(module Anderson_3_Horizontal_Side_by_Side (layer F.Cu) (tedit 5D97F421)
+(module Anderson_3_Horizontal_Side_by_Side (layer F.Cu) (tedit 5DD896EA)
   (fp_text reference REF** (at -5.588 20.447) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -37,7 +37,7 @@
   (pad 2 thru_hole circle (at 0 7.874) (size 5.08 5.08) (drill 4.06) (layers *.Cu *.Mask F.Paste))
   (pad 1 thru_hole circle (at 0 0) (size 5.08 5.08) (drill 4.06) (layers *.Cu *.Mask F.Paste))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Anderson_3_Horizontal_Side_by_Side.stp"
-    (offset (xyz 0 0 7.619999885559082))
+    (offset (xyz -3.174999952316284 -19.68499970436096 7.619999885559082))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 180))
   )

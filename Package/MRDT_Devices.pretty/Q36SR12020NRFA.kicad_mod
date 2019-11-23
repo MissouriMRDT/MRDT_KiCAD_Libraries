@@ -1,4 +1,4 @@
-(module Q36SR12020NRFA (layer F.Cu) (tedit 5D97F6F5)
+(module Q36SR12020NRFA (layer F.Cu) (tedit 5DD89763)
   (fp_text reference VR (at 52.07 25.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -42,7 +42,7 @@
   (pad 6 thru_hole circle (at 50.8 7.62) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 50.8 11.43) (size 3.048 3.048) (drill 1.778) (layers *.Cu *.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Devices/Q36SR12020NRFA.stp"
-    (at (xyz 0 0 0))
+    (offset (xyz -3.809999942779541 -26.03499960899353 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

@@ -1,4 +1,4 @@
-(module LAUNCHXL_F28069M_FULL_SMD_TOP (layer F.Cu) (tedit 5C180A73)
+(module LAUNCHXL_F28069M_FULL_SMD_TOP (layer F.Cu) (tedit 5DD89A0F)
   (fp_text reference REF** (at 33.02 -41.91) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -162,4 +162,29 @@
   (pad P_52 smd rect (at 100.33 0.381) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
   (pad P_53 smd rect (at 97.79 0.381) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
   (pad P_56 smd rect (at 95.25 0.381) (size 0.9906 1.778) (layers F.Cu F.Paste F.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/TM4C129_Launchpad.stp"
+    (offset (xyz 30.47999954223633 0.6349999904632568 12.06499981880188))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical_SMD.step
+    (offset (xyz 43.17999935150146 45.71999931335449 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical_SMD.step
+    (offset (xyz 43.17999935150146 2.539999961853027 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical_SMD.step
+    (offset (xyz 106.6799983978271 45.71999931335449 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model ${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical_SMD.step
+    (offset (xyz 106.6799983978271 2.539999961853027 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )

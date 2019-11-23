@@ -1,4 +1,4 @@
-(module CR1220_Battery_Holder (layer F.Cu) (tedit 5D97F45C)
+(module CR1220_Battery_Holder (layer F.Cu) (tedit 5DD89738)
   (fp_text reference REF** (at 11.9634 6.3246) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -14,7 +14,7 @@
   (pad 1 smd rect (at 15.24 0) (size 2.54 6.35) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd circle (at 7.62 0) (size 10.16 10.16) (layers F.Cu F.Paste F.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/CR1220 SMD Contact.stp"
-    (offset (xyz 6.349999904632568 6.984999895095826 0))
+    (offset (xyz 13.96999979019165 6.984999895095826 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )

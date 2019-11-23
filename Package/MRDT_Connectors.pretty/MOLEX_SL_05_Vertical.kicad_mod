@@ -1,4 +1,4 @@
-(module MOLEX_SL_05_Vertical (layer F.Cu) (tedit 5D97F55C)
+(module MOLEX_SL_05_Vertical (layer F.Cu) (tedit 5DD89594)
   (fp_text reference REF** (at -0.635 3.302) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -18,7 +18,7 @@
   (pad 4 thru_hole circle (at 7.62 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10.16 0) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Molex_SL_05_Vertical.stp"
-    (offset (xyz -7.619999885559082 -2.539999961853027 13.33499979972839))
+    (offset (xyz -2.539999961853027 -2.539999961853027 13.33499979972839))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
   )

@@ -1,4 +1,4 @@
-(module OKI_Horizontal (layer F.Cu) (tedit 5D97F6E5)
+(module OKI_Horizontal (layer F.Cu) (tedit 5DD8981C)
   (tags OKI)
   (fp_text reference REF** (at 0 -2.54) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -22,7 +22,7 @@
   (pad 2 thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.889) (layers *.Cu *.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Devices/OKI.stp"
-    (offset (xyz -0.2539999961853027 0 3.809999942779541))
+    (offset (xyz -2.79399995803833 1.269999980926514 3.809999942779541))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
