@@ -1,4 +1,4 @@
-(module MultiPowerSO_30 (layer F.Cu) (tedit 5D97F7B8)
+(module MultiPowerSO_30 (layer F.Cu) (tedit 5DF04D7A)
   (fp_text reference REF** (at 3.0734 16.7386) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -173,4 +173,9 @@
   (pad 31 smd rect (at 12.065 2.8194) (size 5.2578 6.223) (layers F.Cu F.Paste F.Mask))
   (pad 32 smd rect (at 5.969 6.985) (size 5.2578 10.3124) (layers F.Cu F.Paste F.Mask))
   (pad 33 smd rect (at 12.065 11.1506) (size 5.2578 6.223) (layers F.Cu F.Paste F.Mask))
+  (model ${MRDT_3D_FILES}/MRDT_ICs/VNH5019ATR-E--3DModel-STEP-56544.STEP
+    (offset (xyz 8.889999866485596 -6.984999895095826 1.142999982833862))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
