@@ -1,4 +1,4 @@
-(module 4_40_Hole_Corner (layer F.Cu) (tedit 5DF41181)
+(module 4_40_Hole_Corner (layer F.Cu) (tedit 5E263EC4)
   (fp_text reference REF** (at 4.00812 -3.50812) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,4 +1,4 @@
-(module 6_32_Hole (layer F.Cu) (tedit 5C3FE175)
+(module 6_32_Hole (layer F.Cu) (tedit 5E263F6A)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -6,5 +6,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_circle (center 0 0) (end 4.445 0) (layer F.SilkS) (width 0.15))
-  (pad "" np_thru_hole circle (at 0 0) (size 3.683 3.683) (drill 3.683) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 0 0) (size 3.683 3.683) (drill 3.683) (layers *.Cu *.Mask)
+    (clearance 2.5))
 )

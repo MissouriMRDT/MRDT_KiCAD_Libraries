@@ -1,4 +1,5 @@
-(module 4_40_Hole (layer F.Cu) (tedit 5DF4113A)
+(module 4_40_Hole (layer F.Cu) (tedit 5E263EB1)
+  (clearance 2.54)
   (fp_text reference REF** (at -0.00508 0.50508) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
