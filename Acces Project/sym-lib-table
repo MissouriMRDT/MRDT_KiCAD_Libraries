@@ -10,4 +10,5 @@
   (lib (name MRDT_Shields)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Shields.lib)(options "")(descr ""))
   (lib (name MRDT_Silkscreens)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Silkscreens.lib)(options "")(descr ""))
   (lib (name MRDT_Switches)(type Legacy)(uri ${MRDT_KICAD_LIBRARIES}/Symbols/MRDT_Switches.lib)(options "")(descr ""))
+  (lib (name WirelessEStop_Tx-rescue)(type Legacy)(uri C:/Users/zbroo/Documents/GitHub/WirelessEStop_Hardware/WirelessEStop_Tx-rescue.lib)(options "")(descr ""))
 )
