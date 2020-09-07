@@ -13,6 +13,12 @@ $CMP LDD-1500L
 D LED Driver
 $ENDCMP
 #
+$CMP LM2576D2TR4-3.3G
+D 3.3v Buck 3A Max
+K Buck 3.3
+F https://www.mouser.com/datasheet/2/308/LM2576_D-1810688.pdf
+$ENDCMP
+#
 $CMP OKI
 D DC/DC Buck Converter
 K OKI
