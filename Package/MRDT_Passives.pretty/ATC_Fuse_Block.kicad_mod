@@ -1,4 +1,4 @@
-(module ATC_Fuse_Block (layer F.Cu) (tedit 5D97F84E)
+(module ATC_Fuse_Block (layer F.Cu) (tedit 5FBB409B)
   (tags "Fuse ATC")
   (fp_text reference REF** (at -1.27 6.35) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -15,7 +15,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 2.8194 2.8194) (drill 1.6764) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 3.429) (size 2.8194 2.8194) (drill 1.6764) (layers *.Cu *.Mask))
   (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Passives/Fuze Block with Fuze.stp"
-    (offset (xyz 0 6.667499899864197 0))
+    (offset (xyz -3.175 1.778 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
