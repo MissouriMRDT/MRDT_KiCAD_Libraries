@@ -17,8 +17,20 @@ $CMP BA00DD0WHFP
 D LDO Regulator
 $ENDCMP
 #
+$CMP BMX160
+F https://www.digikey.com/en/products/detail/bosch-sensortec/BMX160/9674243
+$ENDCMP
+#
+$CMP BNO055
+F https://www.mouser.com/ProductDetail/Bosch-Sensortec/BNO055?qs=QhAb4EtQfbV8Z2YmISucWw==
+$ENDCMP
+#
 $CMP DRV8301
 D 3-Phase Gate Driver
+$ENDCMP
+#
+$CMP ICM-20948
+F https://www.digikey.com/en/products/detail/tdk-invensense/ICM-20948/6623535
 $ENDCMP
 #
 $CMP INA132
@@ -48,6 +60,10 @@ $ENDCMP
 #
 $CMP MUX508
 D 3x8 Multiplexer
+$ENDCMP
+#
+$CMP NEO-M8P-2
+F https://www.digikey.com/en/products/detail/u-blox/neo-m8p-2/6150645
 $ENDCMP
 #
 $CMP NUP4201MR6
