@@ -32,6 +32,54 @@ $CMP Molex_SL_10
 K MOLEX SL
 $ENDCMP
 #
+$CMP Molex_uF_D_02
+K MOLEX uF
+$ENDCMP
+#
+$CMP Molex_uF_D_04
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_D_08
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_D_10
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_02
+K MOLEX uF
+$ENDCMP
+#
+$CMP Molex_uF_S_03
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_04
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_05
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_07
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_08
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_09
+K MOLEX SL
+$ENDCMP
+#
+$CMP Molex_uF_S_10
+K MOLEX SL
+$ENDCMP
+#
 $CMP Picoblade_3
 K MOLEX SL
 $ENDCMP
