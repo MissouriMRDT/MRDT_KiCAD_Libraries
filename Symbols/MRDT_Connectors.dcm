@@ -40,6 +40,10 @@ $CMP Molex_uF_D_04
 K MOLEX SL
 $ENDCMP
 #
+$CMP Molex_uF_D_06
+K MOLEX SL
+$ENDCMP
+#
 $CMP Molex_uF_D_08
 K MOLEX SL
 $ENDCMP
