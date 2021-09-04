@@ -1,4 +1,4 @@
-(module STM32F405RGT6 (layer F.Cu) (tedit 6126B326)
+(module STM32F405RGT6 (layer F.Cu) (tedit 612E9253)
   (descr LQFP-64)
   (fp_text reference U2 (at 0 -8.128) (layer F.SilkS)
     (effects (font (size 0.7493 0.7493) (thickness 0.14986)))
@@ -79,12 +79,7 @@
   (pad 6 smd rect (at -1.24968 5.75056) (size 0.3 1.30048) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -1.75006 5.75056) (size 0.3 1.30048) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -2.25044 5.75056) (size 0.3 1.30048) (layers F.Cu F.Paste F.Mask))
-  (model walter/smd_lqfp/lqfp-64.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model D:/Github/ESCBoard_Hardware/Documentation/Libraries/3D/lqfp-64.wrl
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_ICs/lqfp-64.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

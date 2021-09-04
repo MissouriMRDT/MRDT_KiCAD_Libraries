@@ -1,4 +1,4 @@
-(module ABM3B-8.000MHZ-10-1-U-T (layer F.Cu) (tedit 6126B372)
+(module ABM3B-8.000MHZ-10-1-U-T (layer F.Cu) (tedit 612E91F9)
   (descr "5 mm x 3.2 mm")
   (attr smd)
   (fp_text reference X1 (at 0 0) (layer F.SilkS)
@@ -15,7 +15,7 @@
   (pad 2 smd rect (at 1.89992 1.24968) (size 1.80086 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.89992 1.24968) (size 1.80086 1.19888) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -1.89992 -1.24968) (size 1.80086 1.19888) (layers F.Cu F.Paste F.Mask))
-  (model D:/Github/ESCBoard_Hardware/Documentation/Libraries/3D/walter/crystal/crystal_smd_5x3.2mm.wrl
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Actives/crystal_smd_5x3.2mm.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
