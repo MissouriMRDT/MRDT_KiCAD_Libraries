@@ -4,6 +4,10 @@ $CMP ACS759ECB-200B-PFF-T
 D Current Sensor
 $ENDCMP
 #
+$CMP BHI160B
+D IMU
+$ENDCMP
+#
 $CMP DS18B20
 D Temperature Sensor
 $ENDCMP
@@ -18,6 +22,10 @@ $ENDCMP
 #
 $CMP HIH_4030_Breakout
 D Humidity sensor
+$ENDCMP
+#
+$CMP ICM-20608-G
+D IMU
 $ENDCMP
 #
 $CMP LSM90S1
