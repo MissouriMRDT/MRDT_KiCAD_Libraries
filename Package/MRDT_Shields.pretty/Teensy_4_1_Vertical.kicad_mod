@@ -1,4 +1,4 @@
-(module Teensy_4_1_Vertical (layer F.Cu) (tedit 617EE678)
+(module Teensy_4_1_Vertical (layer F.Cu) (tedit 622E7BAC)
   (fp_text reference REF** (at 50.8 33.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -165,4 +165,9 @@
   (pad GND2 thru_hole circle (at 57.15 27.94) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask))
   (pad VBAT thru_hole circle (at 67.31 40.64) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask))
   (pad GND1 thru_hole circle (at 21.59 43.18) (size 1.308 1.308) (drill 0.8) (layers *.Cu *.Mask))
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/DEV-16771--3DModel-STEP-418109.STEP"
+    (offset (xyz 50.8 -35.5 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
