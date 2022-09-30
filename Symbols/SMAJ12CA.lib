@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SMAJ12CA
+#
+DEF SMAJ12CA U 0 40 N N 1 L N
+F0 "U" -126 154 50 H V L BNN
+F1 "SMAJ12CA" -126 -192 50 H V L BNN
+F2 "DO-214AC" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 50 -50 0 50 N
+P 2 0 0 10 0 50 -50 -50 N
+P 2 0 0 10 50 75 50 50 N
+P 2 0 0 10 50 50 0 50 N
+P 2 0 0 10 -50 -50 50 -50 N
+P 2 0 0 10 0 50 -50 50 N
+P 2 0 0 10 -50 50 -50 25 N
+P 2 0 0 6 0 18 0 -18 N
+X ~ A 0 -118 100 U 40 40 0 0 P 
+X ~ C 0 118 100 D 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
