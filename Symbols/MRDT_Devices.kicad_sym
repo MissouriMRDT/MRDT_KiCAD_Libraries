@@ -1232,7 +1232,7 @@
     (property "Value" "VNH7070AS" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/content/ccc/resource/technical/document/datasheet/08/97/0a/0c/cf/4b/41/40/DM00213876.pdf/files/DM00213876.pdf/jcr:content/translations/en.DM00213876.pdf" (at -1.27 -17.78 0)
