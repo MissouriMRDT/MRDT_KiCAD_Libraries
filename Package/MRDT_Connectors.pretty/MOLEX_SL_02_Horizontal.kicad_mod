@@ -27,7 +27,7 @@
   (pad "" np_thru_hole circle (at 3.683 -8.636) (size 3.45 3.45) (drill 3.45) (layers "*.Cu" "*.Mask") (tstamp 65ed4b72-cfed-4281-ba4a-b62b0fb9dfe3))
   (pad "1" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 08abf1c9-d957-40ac-959a-99546f8eaaec))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp e6eed0e5-ead2-463a-be11-d5f83e6d057b))
-  (model "C:/Users/Brink/Documents/GitHub/MRDT_KiCAD_Libraries/3D Files/MRDT_Connctors/Molex_SL_02_Horizontal.stp"
+  (model "${MRDT_KiCAD_Libraries}/3D Files/MRDT_Connctors/Molex_SL_02_Horizontal.stp"
     (offset (xyz 5.1 13 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
