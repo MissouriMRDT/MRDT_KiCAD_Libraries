@@ -25,7 +25,7 @@
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp 0c0cadd7-4b20-426c-baf3-875aea6b4c11))
   (pad "1" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 74766280-8ce1-442a-9908-cecd8b4fc997))
   (pad "2" thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 1aceb466-6921-4fef-8fdf-a8c59ab8160e))
-  (model "${MRDT_KiCAD_Libraries}/3D Files/MRDT_Connctors/Molex_SL_02_Vertical.stp"
+  (model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/Molex_SL_02_Vertical.stp"
     (offset (xyz -2.5 -2.5 13))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
