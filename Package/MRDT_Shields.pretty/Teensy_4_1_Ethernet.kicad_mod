@@ -756,15 +756,15 @@
 		(uuid "23da78f6-c9de-4e20-ba7c-1a89858fab3b")
 	)
 	(embedded_fonts no)
-	(model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/DEV-16771--3DModel-STEP-418109.STEP"
+	(model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/Teensy 4.1.step"
 		(offset
-			(xyz 0 0 8.382)
+			(xyz 0 0 11.684)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 -0 -0)
+			(xyz -90 -0 90)
 		)
 	)
 	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x24_P2.54mm_Vertical.step"
@@ -787,6 +787,28 @@
 		)
 		(rotate
 			(xyz -0 -0 -90)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
+		(offset
+			(xyz -29.21 7.62 10.795)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -90)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x24_P2.54mm_Vertical.step"
+		(offset
+			(xyz -29.21 -7.62 10.795)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -180 -90)
 		)
 	)
 )
