@@ -1,7 +1,7 @@
 (footprint "SW_Switch_03_STSSS9121_Through_Hole"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0.07 -3.21 0)
@@ -20,19 +20,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "0c3d7a55-4e7b-429d-ad3e-8bef9871a496")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5372d980-eff0-4d24-a566-1da667357747")
 		(effects
 			(font
 				(size 1 1)
@@ -74,7 +61,7 @@
 			(width 0.1)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "58607d19-23d4-4a44-9f0f-1750955e3e9a")
 	)
@@ -85,7 +72,7 @@
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "91b9c4bd-ba26-4973-ab58-9fefe9bc87c4")
 	)
@@ -124,5 +111,17 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "ba1c9ad2-81ff-4332-9442-cd400ec38a32")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/lib/OS102011MS2QN1.STEP"
+		(offset
+			(xyz 0 0 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
 	)
 )
