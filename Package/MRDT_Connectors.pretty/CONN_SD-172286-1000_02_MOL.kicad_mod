@@ -123,28 +123,6 @@
 		(layer "F.SilkS")
 		(uuid "4326f296-6dfb-4046-b4f8-3be65112c46d")
 	)
-	(fp_circle
-		(center -4.155498 0)
-		(end -3.774498 0)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "76ebefae-8a0b-4acf-961b-c9bfc4ccac58")
-	)
-	(fp_circle
-		(center -4.155498 0)
-		(end -3.774498 0)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "a22044b7-25a2-42c3-b297-3bb167a62a17")
-	)
 	(fp_line
 		(start -2.504498 -5.97601)
 		(end -2.504498 3.309501)
@@ -302,4 +280,15 @@
 		(uuid "f078e112-d97d-40b3-aa48-3c6ab5186364")
 	)
 	(embedded_fonts no)
+	(model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Connctors/1722861102.stp"
+		(offset
+			(xyz 1.76 -0.21 5.92)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
