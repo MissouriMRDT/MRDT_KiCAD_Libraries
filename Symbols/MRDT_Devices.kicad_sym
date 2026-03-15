@@ -4980,7 +4980,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "MOSFET"
+		(property "Reference" "U"
 			(at 20.066 1.016 0)
 			(effects
 				(font
@@ -4996,7 +4996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MRDT_Devices:SOP-8_TOS-L"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 0 0 0)
 			(effects
 				(font
