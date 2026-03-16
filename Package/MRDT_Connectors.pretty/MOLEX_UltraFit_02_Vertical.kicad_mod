@@ -1,11 +1,11 @@
-(footprint "CONN_SD-172286-1000_02_MOL"
+(footprint "MOLEX_UltraFit_02_Vertical"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "1722861102 ")
 	(property "Reference" "REF**"
-		(at 1.750002 0 0)
+		(at 1.5 4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "77d7d6ce-407f-42ee-94f7-ec9af1c238c6")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CONN_SD-172286-1000_02_MOL"
+	(property "Value" "MOLEX_UltraFit_02_Vertical"
 		(at 1.750002 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

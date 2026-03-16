@@ -1,4 +1,4 @@
-(footprint "CONN_1723102000_02_MOL"
+(footprint "MOLEX_UltraFit_02_Horizontal"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CONN_1723102000_02_MOL"
+	(property "Value" "MOLEX_UltraFit_02_Horizontal"
 		(at 1.75 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
