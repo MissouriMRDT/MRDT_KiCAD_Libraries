@@ -7,7 +7,7 @@
 		(at 13.208 62.786 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "5ea73152-14f9-4d2d-bc68-36707a8b8311")
+		(uuid "86bacaff-63a2-4847-97fb-c457d5ae4d27")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 13.208 64.286 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e343878e-6dad-4c10-8180-26f3f04de9c9")
+		(uuid "7716985f-dee6-4a0e-b8c9-f927bafbe0ba")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "21192261-5778-460e-9920-2ef1ec515e8f")
+		(uuid "a915a783-4c4c-41e2-8e55-5afbc2e93605")
 		(effects
 			(font
 				(size 1 1)
@@ -45,25 +45,12 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a41d5923-6683-424c-8e13-2d715462a302")
+		(uuid "aeb55376-d34d-4a8b-8758-0cecb42296c2")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
-		)
-	)
-	(property "KiLib_Generator" "connector/pin_header_socket"
-		(at 17.5 60.5 180)
-		(layer "B.SilkS")
-		(hide yes)
-		(uuid "07926f58-25e2-4602-8571-ab5edf2cb223")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
 		)
 	)
 	(property "KiLib_Generator" "connector/pin_header_socket"
@@ -566,4 +553,37 @@
 		(uuid "0b789a27-ae22-4556-8ec9-f09ab319bce7")
 	)
 	(embedded_fonts no)
+	(model "${MRDT_KICAD_LIBRARIES}/3D Files/MRDT_Shields/RoveNode.step"
+		(offset
+			(xyz 13.24 -31 11.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x24_P2.54mm_Vertical.step"
+		(offset
+			(xyz 1.8 -1.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x24_P2.54mm_Vertical.step"
+		(offset
+			(xyz 24.6 -1.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
