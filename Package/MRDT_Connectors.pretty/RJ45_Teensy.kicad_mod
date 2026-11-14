@@ -1,12 +1,12 @@
 (footprint "RJ45_Teensy"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 0.5 0)
+		(at 0 -1.016 0)
 		(layer "F.SilkS")
-		(uuid "254df988-464b-4d9b-bbd6-ab45206dfbcc")
+		(uuid "6bd2403c-803d-4f61-b553-40eed04c41b4")
 		(effects
 			(font
 				(size 1 1)
@@ -15,9 +15,9 @@
 		)
 	)
 	(property "Value" "RJ45_Teensy"
-		(at 0 -0.5 0)
+		(at 0.508 1.778 0)
 		(layer "F.Fab")
-		(uuid "bad4c601-445b-4a3b-92ba-01a4acb29ebb")
+		(uuid "3826df54-ed15-42e4-87f4-9f3bb6a68c31")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "75120d84-f005-4f40-82ce-90db0ea4fed6")
+		(uuid "0f613e24-308e-4cfe-af20-28e7af89b266")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6ab42f68-7ea5-449a-9a69-95079e981c17")
+		(uuid "7148bc22-f5aa-4362-a629-e4c6ff159c8d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -50,6 +50,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -8.25 -23.55)
 		(end 8 -23.55)
@@ -90,89 +91,20 @@
 		(layer "F.SilkS")
 		(uuid "ad64c2cd-d336-4e8d-9213-970501af26a1")
 	)
-	(fp_line
-		(start -7 -28)
-		(end -7 -24)
+	(fp_rect
+		(start -9.017 -23.876)
+		(end 8.89 0.508)
 		(stroke
-			(width 0.12)
-			(type solid)
+			(width 0.05)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "45494ea4-c274-4460-9e55-a39837c951fd")
+		(uuid "89c85eed-4a18-4a82-aac8-b7a98dd52511")
 	)
 	(fp_line
-		(start -7 -24)
-		(end -1 -24)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "1a85f458-fabb-4108-9df7-16c6f887435c")
-	)
-	(fp_line
-		(start -1 -28)
-		(end -7 -28)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "559f68d2-5501-4a6e-8f53-5f558d70a57f")
-	)
-	(fp_line
-		(start -1 -24)
-		(end -1 -28)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "1c391b20-4903-40d5-9ac1-340853d07de0")
-	)
-	(fp_line
-		(start 5.5 -27)
-		(end 5.5 -25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "d895e478-5fe1-4c33-b257-5ee371022b5e")
-	)
-	(fp_line
-		(start 5.5 -25)
-		(end 6.5 -25)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "39bbbc3d-2c46-4f65-964c-d0d7651fe139")
-	)
-	(fp_line
-		(start 6.5 -27)
-		(end 5.5 -27)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "59971f85-c347-4c29-b0bc-96b240bc7730")
-	)
-	(fp_line
-		(start 6.5 -25)
-		(end 6.5 -27)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "0c7dff87-d25f-4915-af74-8e707ef1e5ac")
-	)
-	(fp_line
-		(start -9.675 -28.325)
-		(end 9.425 -28.325)
+		(start -9.675 -24.511)
+		(end 9.425 -24.511)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -181,8 +113,8 @@
 		(uuid "75ad149c-1116-41a2-af91-e642768b67f4")
 	)
 	(fp_line
-		(start -9.675 -0.925)
-		(end -9.675 -28.325)
+		(start -9.675 0.889)
+		(end -9.675 -24.511)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -191,8 +123,8 @@
 		(uuid "3db9077e-4734-4c82-bf90-b131346df005")
 	)
 	(fp_line
-		(start -9.675 -0.925)
-		(end 9.425 -0.925)
+		(start -9.675 0.889)
+		(end 9.425 0.889)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -201,36 +133,14 @@
 		(uuid "74d9d662-ad29-4139-9101-bf272e595700")
 	)
 	(fp_line
-		(start 9.425 -0.925)
-		(end 9.425 -28.325)
+		(start 9.425 0.889)
+		(end 9.425 -24.511)
 		(stroke
 			(width 0.12)
 			(type solid)
 		)
 		(layer "F.Fab")
 		(uuid "b489ce7b-aca2-488d-be3d-2bb3c4bb55cf")
-	)
-	(fp_text user "C"
-		(at 6 -24.5 0)
-		(layer "F.CrtYd")
-		(uuid "20853333-e12d-4a43-ae25-b8400e1b3735")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-			)
-		)
-	)
-	(fp_text user "Connector"
-		(at -4 -29 0)
-		(layer "F.CrtYd")
-		(uuid "f2afecb9-f4d9-4cdd-bf97-2f0a05e9f75a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "1" thru_hole circle
 		(at -4.57 -19.35)
